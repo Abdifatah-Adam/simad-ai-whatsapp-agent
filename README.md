@@ -8,7 +8,7 @@ With this agent, new students can ask questions like:
 
 And the bot instantly replies with university details, programs, and guidance.  
 
-![Demo Screenshot](demo.png)
+![Demo Screenshot](demo.PNG)
 
 ---
 
